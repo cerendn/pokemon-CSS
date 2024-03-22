@@ -45,7 +45,7 @@ header a {
 }
 
 input {
-    border: 2px solid #716b2c;
+    border: 2px solid #8b8540;
     background-color: #FBD648;
     border-radius: 50px;
     width: 400px;
@@ -81,8 +81,8 @@ input::placeholder {
     background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     text-align: center;
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 200px;
     display: flex;
     flex-direction: column;
     justify-content: center;
