@@ -54,7 +54,7 @@ input {
 }
 
 input::placeholder {
-    font-size: large;
+    font-size: medium;
     text-shadow: 2px 0 rgb(59, 27, 93);
     color: #FF1F1F;
     letter-spacing: 5px;
