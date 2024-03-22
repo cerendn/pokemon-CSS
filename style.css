@@ -11,6 +11,15 @@
 }
 
 
+header {
+    height: 6vh;
+    background-color: #FF1F1F;
+    display: flex;
+    justify-content: space-between;
+    color: #FBD743;
+    align-items: center;
+
+}
 
 .logo {
     display: flex;
